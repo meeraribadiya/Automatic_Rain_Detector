@@ -6,6 +6,12 @@ This project is designed to automatically protect clothes from unexpected rainfa
 🎥 **Project Demo Video:**  
 https://www.linkedin.com/posts/miraribadiya_arduino-iot-automation-activity-7362853620452659201-iici
 
+**images**
+![Rain Image 1](images/FullSizeRender-1.jpg)
+![Rain Image 3](images/FullSizeRender-3.jpg)
+![Rain Image 4](images/FullSizeRender-4.jpg)
+![Rain Image 5](images/FullSizeRender.jpg)
+
 
 
 ##  Project Overview
